@@ -30,3 +30,4 @@ typesversions
 !.yarn/versions
 .pnp.*
 *.tgz
+config.bat
